@@ -1,0 +1,21 @@
+body
+{
+    color: White;
+    background-image: url("emotions-anime.gif");
+}
+.heading
+{
+    font: Black;
+    width: 80%;
+    font-size: 22px;
+}
+#camera
+{
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px;
+}
+.name_ofobjects, #result_object_name , #result_object_accuracy
+{
+    color: black;
+}
